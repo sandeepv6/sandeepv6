@@ -1,6 +1,6 @@
 # 💫 Hello, I'm Sandeep:
 📚 I'm a 4th Year Computer Science student at the University of Ontario Institute of Technology<br>🔭 Currently working on various personal projects including games, and useful applications.<br><br>👯 Trying to collaborate and contribute to Open Source Projects for fun.<br>🌱 Studying Machine Learning, Deep, AI, and Computer Vision and Simulations.<br><br>🔍 Looking for Student Internships for 2024 to grow my knowledge and understanding<br><br>
-🌐 Check out my portfolio <a href="https://portfolio-livid-alpha-45.vercel.app/" target="_blank">here!</a>
+🌐 Check out my portfolio <a href="sandeepvirk.info" target="_blank">here!</a>
 
 
 
